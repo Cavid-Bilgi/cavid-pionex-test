@@ -3,8 +3,8 @@ import hashlib
 import time
 import requests
 
-API_KEY = "BURAYA_YAZ"
-API_SECRET = "BURAYA_YAZ"
+API_KEY = 9ykmJGwFLKijs8TEfJxNg1Z9PcVB23XWNxcrAmYDHTG7L4Yr5Tw33EBBFvXXzvVt5M
+API_SECRET = 5WInJceUG6Dhta2y14tseXta4xGue63bjV6eBYds0VYssU3vuTRXL6RXzn6bWu8l
 
 base_url = "https://api.pionex.com"
 
